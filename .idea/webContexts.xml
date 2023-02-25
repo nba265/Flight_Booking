@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/account_list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/booking_history.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/login_employee.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager/booking_detail.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager/flight.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager/flight_list.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager/home_manager.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager/promotion.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/manager" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/service_booking.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user/profile.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user" />
+      </map>
+    </option>
+  </component>
+</project>
