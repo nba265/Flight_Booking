@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Spring_MVC_Project_Final" options="-endorseddirs D:\Work\GitHub\Spring_MVC_Project_Final\target/endorsed" />
+      <module name="Spring_MVC_Project_Final" options="-endorseddirs C:\Users\bbb26\IdeaProjects\Flight_Booking\target/endorsed" />
     </option>
   </component>
 </project>

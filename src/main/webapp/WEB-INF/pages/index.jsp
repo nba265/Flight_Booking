@@ -511,7 +511,7 @@
             dateFormat: dateFormat,
             minDate: new Date()
         }).on("change", function () {
-            $('input[id$=return]').datepicker("option", "minDate", getDate(this));
+            $('input[id$=return]').datepicker("option", "mibDate", getDate(this));
         })
         ;
 
@@ -519,7 +519,7 @@
             dateFormat: dateFormat,
             minDate: new Date()
         }).on("change", function () {
-            $('input[id$=departure]').datepicker("option", "minDate", getDate(this));
+            $('input[id$=departure]').datepicker("option", "maxDate", getDate(this));
         });
 
         $('select[id$=from1]').on("change", function () {
